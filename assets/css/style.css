@@ -54,6 +54,7 @@ a:hover {
 
 .logo{
     position: inherit;
+    min-width: 200px;
 }
 .dreams{
     margin-top: 20px;
